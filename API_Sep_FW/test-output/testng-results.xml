@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6006" started-at="2022-12-17T15:52:36Z" finished-at="2022-12-17T15:52:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6006" started-at="2022-12-17T15:52:36Z" finished-at="2022-12-17T15:52:42Z">
+      <class name="org.testing.testCases.TC2_GetAllRequest">
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:org.testing.testCases.TC2_GetAllRequest@20d3d15a]" name="testcase2" duration-ms="75" started-at="2022-12-17T21:22:42Z" finished-at="2022-12-17T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- org.testing.testCases.TC2_GetAllRequest -->
+      <class name="org.testing.testCases.TC3_GetParticularRecord">
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:org.testing.testCases.TC3_GetParticularRecord@2893de87]" name="testcase3" duration-ms="19" started-at="2022-12-17T21:22:42Z" finished-at="2022-12-17T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- org.testing.testCases.TC3_GetParticularRecord -->
+      <class name="org.testing.testCases.TC5_Delete_Request">
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:org.testing.testCases.TC5_Delete_Request@2c34f934]" name="testcase5" duration-ms="27" started-at="2022-12-17T21:22:42Z" finished-at="2022-12-17T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- org.testing.testCases.TC5_Delete_Request -->
+      <class name="org.testing.testCases.TC1_PostRequest">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:org.testing.testCases.TC1_PostRequest@2b546384]" name="testcase1" duration-ms="5800" started-at="2022-12-17T21:22:36Z" finished-at="2022-12-17T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- org.testing.testCases.TC1_PostRequest -->
+      <class name="org.testing.testCases.TC4_Put_Request">
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:org.testing.testCases.TC4_Put_Request@55ca8de8]" name="testCase4" duration-ms="55" started-at="2022-12-17T21:22:42Z" finished-at="2022-12-17T21:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+      </class> <!-- org.testing.testCases.TC4_Put_Request -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
